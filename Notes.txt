@@ -1,0 +1,16 @@
+Module 2: Cloud Computing 
+
+Why? More flexible, scable, up to date, higher bandwidth, more avaiable, more efficient.
+
+On demand self service - a system accessible whenever you like.
+  Ex. 24 hour atm, vending machine
+
+Resource pooling server several customers at once. Resources are assigned and reassigned. Regardless of physical location.
+
+Rapid elastiticy: Be flexible according to demand, scable capabilities, add or decrease resources per amount of users. 
+
+Measured service: Pay for only what you use, not applicable to email services, social media sites, and services on a trial basis. Charged at the end of the month like a bill.
+
+Virtual machines have different environments that exist on the same hardware which had their own memory, cpu and hard drives though they shared the same resources.
+
+Virtualization had shared hosting environments, private servers and dedicated servers.
